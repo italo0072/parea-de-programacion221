@@ -1,0 +1,12 @@
+C:\Users\lobo1\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\lobo1\source\repos\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\lobo1\source\repos\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\lobo1\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\lobo1\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\lobo1\source\repos\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\lobo1\source\repos\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\lobo1\source\repos\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\lobo1\source\repos\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\lobo1\source\repos\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\lobo1\source\repos\proyecto\proyecto\obj\Debug\proyecto.Form2.resources
+C:\Users\lobo1\source\repos\proyecto\proyecto\obj\Debug\proyecto.Form3.resources
